@@ -1,0 +1,10 @@
+{"username":"A","email":"a@gmail.com","phnno":100};
+{"username":"B","email":"b@gmail.com","phnno":101};
+{"username":"c","email":"c@gmail.com","phnno":102};
+{"username":"D","email":"d@gmail.com","phnno":103};
+{"username":"E","email":"e@gmail.com","phnno":104};
+{"username":"F","email":"f@gmail.com","phnno":105};
+{"username":"G","email":"g@gmail.com","phnno":106};
+{"username":"H","email":"h@gmail.com","phnno":107};
+{"username":"I","email":"i@gmail.com","phnno":108};
+{"username":"J","email":"J@gmail.com","phnno":109};
